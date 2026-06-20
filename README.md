@@ -1,1 +1,1 @@
-# my_details
+# my_internship_repository
